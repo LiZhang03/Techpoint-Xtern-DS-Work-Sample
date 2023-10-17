@@ -1,0 +1,4 @@
+index,name,address,location,rating,opening_hours,departure_time
+4,El Buenavista Food Truck,"5210 English Ave, Indianapolis, IN 46219","{'lat': 39.7608462, 'lng': -86.0812326}",5.0,{'open_now': True},8:00
+16,Super Tacos food truck,"7202 E Washington St, Indianapolis, IN 46219","{'lat': 39.77254509999999, 'lng': -86.04034999999999}",4.6,,12:00
+14,KG Slider Station,"3748 Lafayette Rd, Indianapolis, IN 46222","{'lat': 39.8229185, 'lng': -86.2344232}",5.0,{'open_now': True},19:00

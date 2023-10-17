@@ -1,0 +1,21 @@
+name,address,location,rating,opening_hours
+The Night Owl Food Truck,"South and, S Meridian St, Indianapolis, IN 46225","{'lat': 39.76168620000001, 'lng': -86.15793029999999}",5.0,{'open_now': False}
+ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204","{'lat': 39.7775861, 'lng': -86.1556021}",4.8,{'open_now': True}
+Food truck Mil Amores,"5034 E Raymond St, Indianapolis, IN 46203","{'lat': 39.7386158, 'lng': -86.0821965}",4.0,
+Pico de Gallo Food Truck,"3014 Lafayette Rd #3000, Indianapolis, IN 46222","{'lat': 39.8099204, 'lng': -86.2212091}",4.5,{'open_now': False}
+El Buenavista Food Truck,"5210 English Ave, Indianapolis, IN 46219","{'lat': 39.7608462, 'lng': -86.0812326}",5.0,{'open_now': True}
+El Viejon Food Truck,"3612 W 30th St, Indianapolis, IN 46222","{'lat': 39.8099076, 'lng': -86.2216177}",1.0,{'open_now': True}
+Tortas Guicho Food Truck,"S. East St and, Fletcher Ave, Indianapolis, IN 46204","{'lat': 39.7615103, 'lng': -86.14899989999999}",4.5,{'open_now': False}
+ROSE’S foodtruck Honduras,"3759 W Washington St, Indianapolis, IN 46241","{'lat': 39.7604686, 'lng': -86.22475039999999}",0.0,{'open_now': False}
+3 Marias Mex Food Truck,"3205 E Washington St, Indianapolis, IN 46201","{'lat': 39.768243, 'lng': -86.1100464}",0.0,{'open_now': False}
+Taqueria Mi Costa,"1430 W Washington St, Indianapolis, IN 46222","{'lat': 39.7675957, 'lng': -86.1866221}",4.3,{'open_now': True}
+The Grub House,"1953 N College Ave, Indianapolis, IN 46202","{'lat': 39.7937191, 'lng': -86.1445346}",4.1,{'open_now': False}
+El Amigo Taqueria Food Truck,"3356 W 16th St, Indianapolis, IN 46222","{'lat': 39.7882877, 'lng': -86.2153062}",4.3,{'open_now': True}
+Tha Corn Man,"2442 Central Ave, Indianapolis, IN 46205","{'lat': 39.8024795, 'lng': -86.1499178}",3.8,{'open_now': True}
+FELIX TACOS TRUCK,"3145 W Washington St, Indianapolis, IN 46222","{'lat': 39.764207, 'lng': -86.211581}",4.5,{'open_now': True}
+KG Slider Station,"3748 Lafayette Rd, Indianapolis, IN 46222","{'lat': 39.8229185, 'lng': -86.2344232}",5.0,{'open_now': True}
+Food Truck Don Luis,"3605 Commercial Dr, Indianapolis, IN 46222","{'lat': 39.8183177, 'lng': -86.22698319999999}",3.0,{'open_now': True}
+Super Tacos food truck,"7202 E Washington St, Indianapolis, IN 46219","{'lat': 39.77254509999999, 'lng': -86.04034999999999}",4.6,
+Mi Lindo Pénjamo - Food Truck,"7910 Michigan Rd, Indianapolis, IN 46268","{'lat': 39.8975427, 'lng': -86.2164478}",4.5,{'open_now': False}
+Taco food truck,"5621 N Parker Ave, Indianapolis, IN 46220","{'lat': 39.8557077, 'lng': -86.1137069}",0.0,{'open_now': True}
+King gyros food truck,"4585 S Harding St, Indianapolis, IN 46217","{'lat': 39.6981336, 'lng': -86.18572879999999}",4.7,{'open_now': True}

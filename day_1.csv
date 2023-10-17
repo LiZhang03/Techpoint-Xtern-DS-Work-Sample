@@ -1,0 +1,4 @@
+index,name,address,location,rating,opening_hours,departure_time
+0,The Night Owl Food Truck,"South and, S Meridian St, Indianapolis, IN 46225","{'lat': 39.76168620000001, 'lng': -86.15793029999999}",5.0,{'open_now': False},8:00
+19,King gyros food truck,"4585 S Harding St, Indianapolis, IN 46217","{'lat': 39.6981336, 'lng': -86.18572879999999}",4.7,{'open_now': True},12:00
+1,ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204","{'lat': 39.7775861, 'lng': -86.1556021}",4.8,{'open_now': True},19:00
